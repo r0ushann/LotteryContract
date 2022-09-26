@@ -1,0 +1,9 @@
+
+**Decentralised Lottery contract where you can have a unbiased chance of winning the money in the pool**
+
+#This is an Raffle Lottery Contract, here a user enters himself by paying the entrance fee and then after a certain time set by the contract holder
+there is a random number generated with the help of Chainlink Oracle network VRFCoordinatorInterface .
+it has a upkeep function  that generates an unique random number on its own every time the contract is fired . Thus making the lottery (Raffle Lottery ) completely decentralised !
+
+please go on and deploy it on remix local environment (for a user Friendly experience ) and get a chance to win the lottery! :)
+
